@@ -1,5 +1,6 @@
 ### Differences from @chriskempson/base16-builder
 
+* Commit from @chartoin on 2015-08-15
 * Commit from @andymass on 2015-08-15 
 * Commits from @FroZnShiva on 2015-08-15 
 * Commit from @idleberg on 2015-08-15 
@@ -47,11 +48,13 @@ Build a scheme stored on some webspace.
 * IDEA
 * IPython Notebook
 * iTerm 2
+* i3-wm
 * Konsole
 * Mate Terminal
 * MinTTY
-* MultiMarkdown Composer 2 (mmdc2)
+* Mutt
 * Mou
+* MultiMarkdown Composer 2 (mmdc2)
 * Notepad++
 * OS X Terminal (terminal-app)
 * Pantheon Terminal
@@ -64,9 +67,11 @@ Build a scheme stored on some webspace.
 * Rouge
 * Terminator
 * Termite
+* TeX
 * Textadept
 * TextMate (Sublime Text)
 * Vim
+* Vim Airline
 * Visual Studio
 * Virtual Console (vconsole)
 * Windows Command Prompt
@@ -90,7 +95,10 @@ Build a scheme stored on some webspace.
 * [romainx](https://github.com/romainx) - MultiMarkdown Composer 2
 * [moonpyk](https://github.com/moonpyk) - ConEmu
 * [jprjr](https://github.com/jprjr) - ConnectBot, vx-connectbot
+* [rti](https://github.com/rti) - mutt, i3-wm 
+* [FroZnShiva](https://github.com/FroZnShiva) - BBEdit 2, TeX template, Yesterday color schemes 
 * [andymass](https://github.com/andymass) - MATLAB
+* [chartoin](https://github.com/chartoin) - Vim Airline
 * [xHN35RQ](https://github.com/xHN35RQ) - Cherry-picker & Merger
 
 ## License
