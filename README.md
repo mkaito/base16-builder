@@ -107,6 +107,7 @@ Build a scheme stored on some webspace.
 * [forivall](https://github.com/forivall) - Diffuse, Kate, ROXTerm; Fix mix function
 * [pickfire](https://github.com/pickfire) - mutt alternative
 * [xHN35RQ](https://github.com/xHN35RQ) - Cherry-picker & Merger
+* [atelierbram](https://github.com/atelierbram) - Prism
 
 ## License
 Base16 Builder is released under the [MIT License](https://github.com/chriskempson/base16-builder/blob/master/LICENSE.md)
