@@ -1,5 +1,6 @@
 ### Differences from @chriskempson/base16-builder
 
+* Commit from @grigorescu on 2015-08-15
 * Commit from @jasonhansel on 2015-08-15
 * Commit from @chartoin on 2015-08-15
 * Commit from @andymass on 2015-08-15 
@@ -66,6 +67,7 @@ Build a scheme stored on some webspace.
 * Qt Creator
 * Rainbow
 * Rouge
+* Simple Terminal
 * SmartFTP
 * Terminator
 * Termite
@@ -102,6 +104,7 @@ Build a scheme stored on some webspace.
 * [andymass](https://github.com/andymass) - MATLAB
 * [chartoin](https://github.com/chartoin) - Vim Airline
 * [jasonhansel](https://github.com/jasonhansel) - SmartFTP 
+* [grigorescu](https://github.com/grigorescu) - Simple Terminal 
 * [xHN35RQ](https://github.com/xHN35RQ) - Cherry-picker & Merger
 
 ## License
