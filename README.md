@@ -1,5 +1,6 @@
 Added changes on 2015-08-05 from @rti  
 Added change on 2015-08-15 from @joedynamite
+Added change on 2015-08-15 from @idleberg
 
 # Base16 Builder
 Easily build color variations of Base16 with YAML scheme definitions and ERB templates.
