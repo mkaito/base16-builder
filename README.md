@@ -1,3 +1,5 @@
+Added changes on 2015-08-05 from @rti
+
 # Base16 Builder
 Easily build color variations of Base16 with YAML scheme definitions and ERB templates.
 See the [Base16](https://github.com/chriskempson/base16) repository for more information.
