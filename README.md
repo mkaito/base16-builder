@@ -1,7 +1,14 @@
-Added changes on 2015-08-05 from @rti  
-Added change on 2015-08-15 from @joedynamite  
-Added change on 2015-08-15 from @idleberg  
-Added changes on 2015-08-15 from @FroZnShiva
+### Differences from @chriskempson/base16-builder
+
+* Commit from @andymass on 2015-08-15 
+* Commits from @FroZnShiva on 2015-08-15 
+* Commit from @idleberg on 2015-08-15 
+* Commit from @joedynamite on 2015-08-15   
+* Commits from @rti on 2015-08-05
+
+[View all commits](https://github.com/xHN35RQ/base16-builder/commits/master)
+
+---
 
 # Base16 Builder
 Easily build color variations of Base16 with YAML scheme definitions and ERB templates.
@@ -67,6 +74,7 @@ Build a scheme stored on some webspace.
 * XFCE4 Terminal
 * Xresources
 * Zathura
+* MATLAB
 
 ## Maintainers
 * [chriskempson](https://github.com/chriskempson) - HTML Preview, Vim, TextMate, iTerm 2, XFCE4 Terminal, Mou, Escape Code Shell Script, Gnome Terminal, BBEdit
@@ -82,6 +90,8 @@ Build a scheme stored on some webspace.
 * [romainx](https://github.com/romainx) - MultiMarkdown Composer 2
 * [moonpyk](https://github.com/moonpyk) - ConEmu
 * [jprjr](https://github.com/jprjr) - ConnectBot, vx-connectbot
+* [andymass](https://github.com/andymass) - MATLAB
+* [xHN35RQ](https://github.com/xHN35RQ) - Cherry-picker & Merger
 
 ## License
 Base16 Builder is released under the [MIT License](https://github.com/chriskempson/base16-builder/blob/master/LICENSE.md)
