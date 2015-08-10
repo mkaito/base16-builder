@@ -1,5 +1,6 @@
 ### Differences from @chriskempson/base16-builder
 
+* Commit from @toiffel on 2015-08-16
 * Commit from @erossetto on 2015-08-15
 * Commit from @grigorescu on 2015-08-15
 * Commit from @jasonhansel on 2015-08-15
