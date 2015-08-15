@@ -1,4 +1,5 @@
-Added changes on 2015-08-05 from @rti
+Added changes on 2015-08-05 from @rti  
+Added change on 2015-08-15 from @joedynamite
 
 # Base16 Builder
 Easily build color variations of Base16 with YAML scheme definitions and ERB templates.
@@ -60,7 +61,7 @@ Build a scheme stored on some webspace.
 * Visual Studio
 * Virtual Console (vconsole)
 * Windows Command Prompt
-* Xcode 4
+* Xcode
 * XFCE4 Terminal
 * Xresources
 * Zathura
@@ -69,7 +70,7 @@ Build a scheme stored on some webspace.
 * [chriskempson](https://github.com/chriskempson) - HTML Preview, Vim, TextMate, iTerm 2, XFCE4 Terminal, Mou, Escape Code Shell Script, Gnome Terminal, BBEdit
 * [jayferd](https://github.com/jayferd) - Rouge
 * [neil477](https://github.com/neil477) - Emacs
-* [joedynamite](https://github.com/joedynamite) - Xcode 4
+* [joedynamite](https://github.com/joedynamite) - Xcode
 * [robloach](https://github.com/robloach) - Geany
 * [geoffstokes](https://github.com/geoffstokes) - Windows Command Prompt, MinTTY
 * [idleberg](https://github.com/idleberg) - Atom, Chrome DevTools, CodeMirror, Gedit, highlight.js, Notepad++, prettify.js, Pygments, Rainbow
