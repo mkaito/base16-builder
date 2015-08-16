@@ -1,17 +1,8 @@
-### Differences from @chriskempson/base16-builder
+#### Temporary update branch of chriskempson/base16-builder
 
-* Commit from @toiffel on 2015-08-16
-* Commit from @erossetto on 2015-08-15
-* Commit from @grigorescu on 2015-08-15
-* Commit from @jasonhansel on 2015-08-15
-* Commit from @chartoin on 2015-08-15
-* Commit from @andymass on 2015-08-15 
-* Commits from @FroZnShiva on 2015-08-15 
-* Commit from @idleberg on 2015-08-15 
-* Commit from @joedynamite on 2015-08-15   
-* Commits from @rti on 2015-08-05
+I try to keep this branch updated with improvements from `base16` fans on Github. Some of these improvements will eventually become part of the main branch at [chriskempson/base16-builder](https://github.com/chriskempson/base16-builder). But until then this branch is my attempt at keeping things up-to-date. Pull requests and issues are welcome to help eliminate any bugs I've probably introduced.
 
-[View all commits](https://github.com/xHN35RQ/base16-builder/commits/master)
+[Compare this branch to chriskempson/base16-builder](https://github.com/chriskempson/base16-builder/compare/master...xHN35RQ:master) to see what updates have been added to the main branch.
 
 ---
 
