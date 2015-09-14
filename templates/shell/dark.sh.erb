@@ -80,7 +80,7 @@ printf $printf_template 20 $color20
 printf $printf_template 21 $color21
 
 # foreground / background / cursor color
-if [ -n "$ITERM_SESSION_ID" ]; then
+if [ -n "$ITERM_SESSION_ID" ] && [ -z "$TMUX" ]; then
   # iTerm2 proprietary escape codes
   printf $printf_template_custom Pg <%= @base["05"]["hex"] %> # forground
   printf $printf_template_custom Ph <%= @base["00"]["hex"] %> # background
