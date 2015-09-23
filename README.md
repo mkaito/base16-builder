@@ -29,6 +29,7 @@ Build a scheme stored on some webspace.
 * CodeMirror
 * ConEmu
 * Console2
+* Diffuse
 * DrRacket
 * Emacs
 * Escape Code Shell Script (shell)
@@ -44,6 +45,7 @@ Build a scheme stored on some webspace.
 * IPython Notebook
 * iTerm 2
 * i3-wm
+* Kate
 * Konsole
 * Mate Terminal
 * MinTTY
@@ -60,6 +62,7 @@ Build a scheme stored on some webspace.
 * Qt Creator
 * Rainbow
 * Rouge
+* ROXTerm
 * rxvt-unicode
 * Simple Terminal
 * SmartFTP
@@ -100,6 +103,7 @@ Build a scheme stored on some webspace.
 * [jasonhansel](https://github.com/jasonhansel) - SmartFTP 
 * [grigorescu](https://github.com/grigorescu) - Simple Terminal 
 * [erossetto](https://github.com/erossetto) - rxvt-unicode
+* [forivall](https://github.com/forivall) - Diffuse, Kate, ROXTerm
 * [xHN35RQ](https://github.com/xHN35RQ) - Cherry-picker & Merger
 
 ## License
