@@ -104,6 +104,7 @@ Build a scheme stored on some webspace.
 * [grigorescu](https://github.com/grigorescu) - Simple Terminal 
 * [erossetto](https://github.com/erossetto) - rxvt-unicode
 * [forivall](https://github.com/forivall) - Diffuse, Kate, ROXTerm; Fix mix function
+* [pickfire](https://github.com/pickfire) - mutt alternative
 * [xHN35RQ](https://github.com/xHN35RQ) - Cherry-picker & Merger
 
 ## License
