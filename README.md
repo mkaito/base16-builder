@@ -1,6 +1,6 @@
 #### Temporary update branch of chriskempson/base16-builder
 
-I try to keep this branch updated with improvements from `base16` fans on Github. Some of these improvements will eventually become part of the main branch at [chriskempson/base16-builder](https://github.com/chriskempson/base16-builder). But until then this branch is my attempt at keeping things up-to-date. Pull requests and issues are welcome to help eliminate any bugs I've probably introduced.
+I try to keep this branch updated with improvements from `base16` fans on Github. Some of these improvements may eventually become part of the main branch at [chriskempson/base16-builder](https://github.com/chriskempson/base16-builder). But until then this branch is my attempt at keeping things up-to-date. Pull requests and issues are welcome to help eliminate any bugs I've probably introduced.
 
 [Compare this branch to chriskempson/base16-builder](https://github.com/chriskempson/base16-builder/compare/master...xHN35RQ:master) to see what updates have been added to the main branch.
 
@@ -103,7 +103,7 @@ Build a scheme stored on some webspace.
 * [jasonhansel](https://github.com/jasonhansel) - SmartFTP 
 * [grigorescu](https://github.com/grigorescu) - Simple Terminal 
 * [erossetto](https://github.com/erossetto) - rxvt-unicode
-* [forivall](https://github.com/forivall) - Diffuse, Kate, ROXTerm
+* [forivall](https://github.com/forivall) - Diffuse, Kate, ROXTerm; Fix mix function
 * [xHN35RQ](https://github.com/xHN35RQ) - Cherry-picker & Merger
 
 ## License
