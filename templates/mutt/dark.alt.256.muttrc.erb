@@ -87,7 +87,6 @@ color tree        color03     color00                # arrow in threads
 
 # Index
 color index       color20     color00     "~A"       # all messages
-color index       color06     color00     "~O"       # message is old
 color index       color07     color00     "~F"       # flagged messages
 color index       color03     color00     "~P"       # message is PGP encrypted
 color index       color02     color00     "~S"       # message is signed and signature is verified
@@ -95,13 +94,14 @@ color index       color20     color00     "~v~(!~N)" # collapsed thread with no 
 color index       color04     color00     "~U"       # unread messages
 color index       color04     color00     "~v~(~N)"  # collapsed thread with some unread
 color index       color02     color00     "~v~(~F)"  # collapsed thread with some flagged
+color index       color06     color00     "~O"       # message is old
 color index       color18     color02     "~T"       # tagged message
 color index       color18     color01     "~D"       # message mark for deletion
 
 # Header
-color hdrdefault  color19     color18
-color header      color08     color18     "^(From)"
-color header      color06     color18     "^(Subject)"
+color hdrdefault  color19     color00
+color header      color08     color00     "^(From)"
+color header      color06     color00     "^(Subject)"
 color header      color01     color00     "^(X-spam-rule)"
 color header      color01     color00     "^(X-SpamProbe: SPAM)"
 
