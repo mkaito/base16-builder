@@ -4,6 +4,11 @@ I try to keep this branch updated with improvements from `base16` fans on Github
 
 [Compare this branch to chriskempson/base16-builder](https://github.com/chriskempson/base16-builder/compare/master...xHN35RQ:master) to see what updates have been added to the main branch.
 
+Please see these discussions about the current status of base16-builder:
+
+* https://github.com/chriskempson/base16-builder/issues/293
+* https://github.com/chriskempson/base16-builder/issues/294
+
 ---
 
 # Base16 Builder
