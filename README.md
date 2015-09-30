@@ -1,4 +1,4 @@
-I won't be updating this branch any longer, as most of the good fixed have been pushed [upstream](https://github.com/chriskempson/base16-builder).
+I won't be updating this branch any longer, as most of the good fixes have been pushed [upstream](https://github.com/chriskempson/base16-builder).
 
 Please see these discussions about the current status of base16-builder:
 
