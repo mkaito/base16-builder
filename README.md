@@ -1,8 +1,4 @@
-#### Temporary update branch of chriskempson/base16-builder
-
-I try to keep this branch updated with improvements from `base16` fans on Github. Some of these improvements may eventually become part of the main branch at [chriskempson/base16-builder](https://github.com/chriskempson/base16-builder). But until then this branch is my attempt at keeping things up-to-date. Pull requests and issues are welcome to help eliminate any bugs I've probably introduced.
-
-[Compare this branch to chriskempson/base16-builder](https://github.com/chriskempson/base16-builder/compare/master...xHN35RQ:master) to see what updates have been added to the main branch.
+I won't be updating this branch any longer, as most of the good fixed have been pushed [upstream](https://github.com/chriskempson/base16-builder).
 
 Please see these discussions about the current status of base16-builder:
 
