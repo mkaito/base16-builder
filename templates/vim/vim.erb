@@ -153,7 +153,7 @@ call <sid>hi("Folded",        s:gui03, s:gui01, s:cterm03, s:cterm01, "", "")
 call <sid>hi("IncSearch",     s:gui01, s:gui09, s:cterm01, s:cterm09, "none", "")
 call <sid>hi("Italic",        "", "", "", "", "none", "")
 call <sid>hi("Macro",         s:gui08, "", s:cterm08, "", "", "")
-call <sid>hi("MatchParen",    s:gui00, s:gui03, s:cterm00, s:cterm03,  "", "")
+call <sid>hi("MatchParen",    s:gui00, s:gui03, s:cterm00, s:cterm05,  "", "")
 call <sid>hi("ModeMsg",       s:gui0B, "", s:cterm0B, "", "", "")
 call <sid>hi("MoreMsg",       s:gui0B, "", s:cterm0B, "", "", "")
 call <sid>hi("Question",      s:gui0D, "", s:cterm0D, "", "", "")
@@ -215,8 +215,25 @@ call <sid>hi("Type",         s:gui0A, "", s:cterm0A, "", "none", "")
 call <sid>hi("Typedef",      s:gui0A, "", s:cterm0A, "", "", "")
 
 " C highlighting
-call <sid>hi("cOperator",   s:gui0C, "", s:cterm0C, "", "", "")
-call <sid>hi("cPreCondit",  s:gui0E, "", s:cterm0E, "", "", "")
+call <sid>hi("cCharacter",      s:gui0B, "", s:cterm0B, "", "", "")
+call <sid>hi("cDefine",         s:gui08, "", s:cterm08, "", "none", "")
+call <sid>hi("cInclude",        s:gui08, "", s:cterm08, "", "", "")
+call <sid>hi("cLabel",          s:gui0E, "", s:cterm0E, "", "", "")
+call <sid>hi("cOperator",       s:gui0E, "", s:cterm0E, "", "", "")
+call <sid>hi("cPreCondit",      s:gui08, "", s:cterm08, "", "", "")
+call <sid>hi("cPreProc",        s:gui08, "", s:cterm08, "", "", "")
+call <sid>hi("cRepeat",         s:gui0E, "", s:cterm0E, "", "", "")
+call <sid>hi("cStatement",      s:gui0E, "", s:cterm0E, "", "none", "")
+call <sid>hi("cStorageClass",   s:gui0E, "", s:cterm0E, "", "", "")
+call <sid>hi("cType",           s:gui0E, "", s:cterm0E, "", "none", "")
+call <sid>hi("cUserLabel",      s:gui0E, "", s:cterm0E, "", "", "")
+
+" C++ highlighting
+call <sid>hi("cppExceptions",   s:gui0E, "", s:cterm0E, "", "", "")
+call <sid>hi("cppOperator",     s:gui0E, "", s:cterm0E, "", "", "")
+call <sid>hi("cppStatement",    s:gui0E, "", s:cterm0E, "", "none", "")
+call <sid>hi("cppStorageClass", s:gui0E, "", s:cterm0E, "", "", "")
+call <sid>hi("cppType",         s:gui0E, "", s:cterm0E, "", "none", "")
 
 " C# highlighting
 call <sid>hi("csClass",                 s:gui0A, "", s:cterm0A, "", "", "")
@@ -265,14 +282,14 @@ call <sid>hi("javaScriptBraces",  s:gui05, "", s:cterm05, "", "", "")
 call <sid>hi("javaScriptNumber",  s:gui09, "", s:cterm09, "", "", "")
 
 " Mail highlighting
-call <sid>hi("mailQuoted1",  s:gui0A, "", s:cterm0A, "", "")
-call <sid>hi("mailQuoted2",  s:gui0B, "", s:cterm0B, "", "")
-call <sid>hi("mailQuoted3",  s:gui0E, "", s:cterm0E, "", "")
-call <sid>hi("mailQuoted4",  s:gui0C, "", s:cterm0C, "", "")
-call <sid>hi("mailQuoted5",  s:gui0D, "", s:cterm0D, "", "")
-call <sid>hi("mailQuoted6",  s:gui0A, "", s:cterm0A, "", "")
-call <sid>hi("mailURL",      s:gui0D, "", s:cterm0D, "", "")
-call <sid>hi("mailEmail",    s:gui0D, "", s:cterm0D, "", "")
+call <sid>hi("mailQuoted1",  s:gui0A, "", s:cterm0A, "", "", "")
+call <sid>hi("mailQuoted2",  s:gui0B, "", s:cterm0B, "", "", "")
+call <sid>hi("mailQuoted3",  s:gui0E, "", s:cterm0E, "", "", "")
+call <sid>hi("mailQuoted4",  s:gui0C, "", s:cterm0C, "", "", "")
+call <sid>hi("mailQuoted5",  s:gui0D, "", s:cterm0D, "", "", "")
+call <sid>hi("mailQuoted6",  s:gui0A, "", s:cterm0A, "", "", "")
+call <sid>hi("mailURL",      s:gui0D, "", s:cterm0D, "", "", "")
+call <sid>hi("mailEmail",    s:gui0D, "", s:cterm0D, "", "", "")
 
 " Markdown highlighting
 call <sid>hi("markdownCode",              s:gui0B, "", s:cterm0B, "", "", "")
@@ -315,10 +332,10 @@ call <sid>hi("SignifySignChange",  s:gui0D, s:gui01, s:cterm0D, s:cterm01, "", "
 call <sid>hi("SignifySignDelete",  s:gui08, s:gui01, s:cterm08, s:cterm01, "", "")
 
 " Spelling highlighting
-call <sid>hi("SpellBad",     "", s:gui00, "", s:cterm00, "undercurl", s:gui08)
-call <sid>hi("SpellLocal",   "", s:gui00, "", s:cterm00, "undercurl", s:gui0C)
-call <sid>hi("SpellCap",     "", s:gui00, "", s:cterm00, "undercurl", s:gui0D)
-call <sid>hi("SpellRare",    "", s:gui00, "", s:cterm00, "undercurl", s:gui0E)
+call <sid>hi("SpellBad",   s:gui08, s:gui00, s:cterm08, s:cterm00, "undercurl", s:gui08)
+call <sid>hi("SpellCap",   s:gui0A, s:gui00, s:cterm0A, s:cterm00, "undercurl", s:gui0A)
+call <sid>hi("SpellLocal", s:gui0B, s:gui00, s:cterm0B, s:cterm00, "undercurl", s:gui0B)
+call <sid>hi("SpellRare",  s:gui0C, s:gui00, s:cterm0C, s:cterm00, "undercurl", s:gui0C)
 
 " Remove functions
 delf <sid>hi

@@ -1,3 +1,12 @@
+I won't be updating this branch any longer, as most of the good fixes have been pushed [upstream](https://github.com/chriskempson/base16-builder).
+
+Please see these discussions about the current status of base16-builder:
+
+* https://github.com/chriskempson/base16-builder/issues/293
+* https://github.com/chriskempson/base16-builder/issues/294
+
+---
+
 # Base16 Builder
 Easily build color variations of Base16 with YAML scheme definitions and ERB templates.
 See the [Base16](https://github.com/chriskempson/base16) repository for more information.
@@ -21,6 +30,7 @@ Build a scheme stored on some webspace.
 * CodeMirror
 * ConEmu
 * Console2
+* Diffuse
 * DrRacket
 * Emacs
 * Escape Code Shell Script (shell)
@@ -35,11 +45,14 @@ Build a scheme stored on some webspace.
 * IDEA
 * IPython Notebook
 * iTerm 2
+* i3-wm
+* Kate
 * Konsole
 * Mate Terminal
 * MinTTY
-* MultiMarkdown Composer 2 (mmdc2)
+* Mutt
 * Mou
+* MultiMarkdown Composer 2 (mmdc2)
 * Notepad++
 * OS X Terminal (terminal-app)
 * Pantheon Terminal
@@ -50,11 +63,17 @@ Build a scheme stored on some webspace.
 * Qt Creator
 * Rainbow
 * Rouge
+* ROXTerm
+* rxvt-unicode
+* Simple Terminal
+* SmartFTP
 * Terminator
 * Termite
+* TeX
 * Textadept
 * TextMate (Sublime Text)
 * Vim
+* Vim Airline
 * Visual Studio
 * Virtual Console (vconsole)
 * Windows Command Prompt
@@ -62,6 +81,7 @@ Build a scheme stored on some webspace.
 * XFCE4 Terminal
 * Xresources
 * Zathura
+* MATLAB
 
 ## Maintainers
 * [chriskempson](https://github.com/chriskempson) - HTML Preview, Vim, TextMate, iTerm 2, XFCE4 Terminal, Mou, Escape Code Shell Script, Gnome Terminal, BBEdit
@@ -77,6 +97,16 @@ Build a scheme stored on some webspace.
 * [romainx](https://github.com/romainx) - MultiMarkdown Composer 2
 * [moonpyk](https://github.com/moonpyk) - ConEmu
 * [jprjr](https://github.com/jprjr) - ConnectBot, vx-connectbot
+* [rti](https://github.com/rti) - mutt, i3-wm 
+* [FroZnShiva](https://github.com/FroZnShiva) - BBEdit 2, TeX template, Yesterday color schemes 
+* [andymass](https://github.com/andymass) - MATLAB
+* [chartoin](https://github.com/chartoin) - Vim Airline
+* [jasonhansel](https://github.com/jasonhansel) - SmartFTP 
+* [grigorescu](https://github.com/grigorescu) - Simple Terminal 
+* [erossetto](https://github.com/erossetto) - rxvt-unicode
+* [forivall](https://github.com/forivall) - Diffuse, Kate, ROXTerm; Fix mix function
+* [pickfire](https://github.com/pickfire) - mutt alternative
+* [xHN35RQ](https://github.com/xHN35RQ) - Cherry-picker & Merger
 * [atelierbram](https://github.com/atelierbram) - Prism
 
 ## License
